@@ -8,5 +8,3 @@ In the project directory, you can run:
 
 ### `npm start`
 
- Deployed Link-https://personal-portfolio-neon-rho-40.vercel.app/
-
